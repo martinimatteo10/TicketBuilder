@@ -11,9 +11,9 @@ import java.nio.channels.FileChannel;
 /**
  *
  * Classe che si occupa di creare e riempire i biglietti in pdf
- * See <a href="https://api.itextpdf.com/iText5/java/5.5.13.3/">IText 5.5.13.3</a>
+ * <a href="https://api.itextpdf.com/iText5/java/5.5.13.3/">IText 5.5.13.3</a>
  *
- * @author martinimatteo10
+ * @author martinimatteo10 - (<a href="https://github.com/martinimatteo10">Github profile</a>)
  */
 public class TicketBuilder {
 

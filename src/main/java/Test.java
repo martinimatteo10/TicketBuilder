@@ -1,6 +1,11 @@
 import java.io.File;
 
-
+/**
+ *
+ * Classe che si occupa di testare il programma
+ *
+ * @author martinimatteo10 - (<a href="https://github.com/martinimatteo10">Github profile</a>)
+ */
 public class Test {
     public static void main(String[] args) throws Exception {
 
