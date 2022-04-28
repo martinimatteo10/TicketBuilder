@@ -1,3 +1,7 @@
+[![Visits Badge](https://badges.pufler.dev/visits/martinimatteo10/TicketBuilder)](https://badges.pufler.dev)
+
+---- 
+
 # TicketBuilder
 TicketBuilder for https://github.com/IngSW-unipv/Progetto-D22.git
 
@@ -28,3 +32,4 @@ I biglietti generati si basano su dei template pdf modificabili, da noi creati.
 
 
 2. Eseguire `src/main/java/Test.java` per generare le 3 tipologie di biglietti in formato pdf.
+
