@@ -1,7 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/martinimatteo10/TicketBuilder)](https://badges.pufler.dev)
-
----- 
-
 # TicketBuilder
 TicketBuilder for https://github.com/IngSW-unipv/Progetto-D22.git
 
