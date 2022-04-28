@@ -1,6 +1,6 @@
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martinimatteo10.ticketbuilder&left_text=Visite&right_color=brightgreen)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martinimatteo10.ticketbuilder&left_text=Visite%20Totali&right_color=brightgreen)
 
 ----
 
